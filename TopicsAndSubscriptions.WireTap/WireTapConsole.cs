@@ -12,7 +12,7 @@ namespace TopicsAndSubscriptions.WireTap
     {
         //ToDo: Enter a valid Serivce Bus connection string
         static string SbConnectionString = "";
-        static string TopicPath = "ordertopic";
+        static string TopicPath = "ordertoic";
 
         static void Main(string[] args)
         {
